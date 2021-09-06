@@ -1,0 +1,12 @@
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\bin\Debug\MyModel.dll.config
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\bin\Debug\MyModel.dll
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\bin\Debug\MyModel.pdb
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\bin\Debug\EntityFramework.dll
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\bin\Debug\EntityFramework.xml
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\obj\Debug\MyModel.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\obj\Debug\MyModel.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\obj\Debug\MyModel.csproj.CopyComplete
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\obj\Debug\MyModel.dll
+C:\Users\Nur\source\repos\NorthwindXML\MyModel\obj\Debug\MyModel.pdb
